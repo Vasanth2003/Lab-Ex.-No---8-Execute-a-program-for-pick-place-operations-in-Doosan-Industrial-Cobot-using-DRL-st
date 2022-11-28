@@ -42,8 +42,10 @@ Procedure:
 ## Program 
 Roll no:212220040116
 Name:PON VASANTH S
+![203841473-ed8bd316-2d84-4d58-b011-ae225b324913](https://user-images.githubusercontent.com/87744906/204191786-51f8b16e-a679-4253-bf93-7a3ba3ba9cc6.png)
 
 ![203841488-9ea714c5-e71f-4ee3-ad53-9f62d01d4040](https://user-images.githubusercontent.com/87744906/204149939-4c1fcac7-51a7-4066-98a6-1c6ad82e0db3.png)
+![203841495-2dfbd094-f224-41d8-b475-133a1b2c190a](https://user-images.githubusercontent.com/87744906/204191806-1dc55ae4-f99f-407c-b79c-07ad0d5cdf8a.png)
 
 
 
@@ -53,7 +55,7 @@ Name:PON VASANTH S
 
 
 ## Results: 
-
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
